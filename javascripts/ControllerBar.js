@@ -15,7 +15,7 @@ var ControllerBar = Backbone.View.extend({
   },
 
   build: function () {
-    var keys = _.clone(this.options.keys).reverse();
+    var keys = _.clone(this.options.keys);
     var html = _.map(keys, function (k) {
       return this.buttonTemplate({
         key: k
