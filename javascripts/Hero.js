@@ -64,4 +64,5 @@ var Hero = Backbone.View.extend({
 
 $(function () {
   window.hero = new Hero();
+  window.scrollTo(0,1);
 });
