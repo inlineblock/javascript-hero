@@ -1,7 +1,14 @@
 javascript-hero
 ===============
 
+![JavaScript Hero example image](https://github.com/inlineblock/javascript-hero/raw/master/example.png)
+
+
+What?
+====
 JavaScript engine for a "GuitarHero" like games. Uses D3js, backbone, and underscore. Less is used for compiling CSS.
+
+[View it on bl.ocks.org](http://bl.ocks.org/inlineblock/6629526)
 
 
 Why?
